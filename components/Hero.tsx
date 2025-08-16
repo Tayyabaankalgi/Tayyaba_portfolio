@@ -22,7 +22,7 @@ export default function Hero() {
             animate={{ opacity: 1 }}
             transition={{ delay: 0.2, duration: 0.6 }}
           >
-            Electronics & Communication undergrad with hands-on web development and growing passion
+            Electronics & Communication undergrad with hands-on experience in web development and growing passion
             for machine learning. Focused on building engaging, accessible interfaces and real-time ML features.
           </motion.p>
 
