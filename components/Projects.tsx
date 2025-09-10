@@ -11,16 +11,7 @@ const projects = [
     tech: ["TensorFlow", "Keras", "Pandas", "NumPy", "Flask (optional)"],
     image: "/movie-recommender.jpg",
   },
-  {
-    title: "SafeSign — Signature Verification System",
-    bullets: [
-      "Developed a real‑time signature verification system using Siamese Networks and OpenCV.",
-      "Trained model to distinguish genuine vs forged signatures via pairwise image comparison.",
-      "Deployed model using Flask to provide an interactive web‑based validation tool.",
-    ],
-    tech: ["Siamese Networks", "OpenCV", "Flask"],
-    image: "/safesign.jpg",
-  },
+  
   {
     title: "ShopEase — E‑commerce Website",
     bullets: [
