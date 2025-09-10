@@ -30,11 +30,11 @@ export default function About() {
             </h3>
 
             <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-              As an Electronics & Communication Engineering undergrad, I've developed a robust foundation in problem-solving and critical thinking. My journey quickly led me to the dynamic world of web development, where I discovered a passion for building intuitive and engaging user experiences. I thrive on bringing ideas to life through clean, efficient code and modern frameworks.
+              I’m an Electronics & Communication Engineering undergrad with a strong foundation in problem-solving and critical thinking. My journey led me to the world of web development, where I love creating intuitive and engaging user experiences with clean, efficient code.
             </p>
 
             <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-              Beyond the browser, I'm deeply fascinated by Machine Learning and its practical applications. I'm actively exploring how ML can enhance user interactions and create intelligent features, constantly pushing the boundaries of what's possible in both my web projects and independent studies.
+              Beyond web, I’m exploring Machine Learning to build intelligent, user-driven features. I’m curious, collaborative, and excited about opportunities to combine my analytical background with my creative passion for technology.
             </p>
 
             <p className="text-lg text-gray-700 leading-relaxed">
