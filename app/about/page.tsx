@@ -44,7 +44,7 @@ export default function About() {
             {/* Call to action (optional) */}
             <div className="mt-8">
               <a
-                href="/Tayyaba_ankalgi_resume.pdf"
+                href="/Tayyaba_Ankalgi.Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center px-6 py-3 rounded-xl bg-brand-600 text-white font-semibold shadow-md hover:bg-brand-700 transition"
