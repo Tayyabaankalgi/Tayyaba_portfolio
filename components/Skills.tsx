@@ -4,6 +4,7 @@ import React from "react";
 // Pretty names for exact Devicon classes
 const NAME_MAP: Record<string, string> = {
 "devicon-cplusplus-plain": "C++",
+"devicon-mysql-plain colored": "SQL",
 "devicon-python-plain colored": "Python",
 "devicon-html5-plain colored": "HTML5",
 "devicon-css3-plain colored": "CSS3",
@@ -35,7 +36,7 @@ type Group = { title: string; items: string[] };
 const GROUPS: Group[] = [
 {
 title: "Programming Languages",
-items: ["devicon-cplusplus-plain", "devicon-python-plain colored"],
+items: ["devicon-cplusplus-plain", "devicon-python-plain colored", "devicon-mysql-plain colored"],
 },
 {
 title: "Web Development",
